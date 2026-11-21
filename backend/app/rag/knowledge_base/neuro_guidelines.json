@@ -1,0 +1,38 @@
+[
+  {
+    "id": "AAN-2022-CEPHALALGIA",
+    "source": "American Academy of Neurology (AAN): Clinical Practice Guidelines for Primary Headache Disorders",
+    "category": "neuro",
+    "title": "Migraine, Tension-Type Cephalalgia, and Neurovascular Triggers",
+    "keywords": ["headache", "migraine", "aura", "throbbing", "light sensitivity", "photophobia"],
+    "target_biomarkers": ["headache", "sensory"],
+    "content": "Primary cephalalgias encompass tension-type headaches and migraines. Migraine pathophysiology involves sterile neurogenic inflammation, trigeminal sensory nerve activation, and cortical spreading depression. Classic triggers include circadian dysregulation, rapid dehydration, visual sensory overstimulation (blue light flicker), and systemic stress. Preventive lifestyle measures include regular meals, strict hydration schedules, sleep stabilization, and avoidance of identified dietary vasodilation triggers."
+  },
+  {
+    "id": "AAN-2021-COGNITIVE",
+    "source": "AAN Guidelines: Evaluation and Differential Management of Subjective Cognitive Complaints",
+    "category": "neuro",
+    "title": "Cognitive Fatigue, Working Memory Strain, and 'Brain Fog'",
+    "keywords": ["memory", "confusion", "concentration", "brain fog", "disoriented", "fatigue"],
+    "target_biomarkers": ["cognitive"],
+    "content": "Subjective cognitive decline and 'brain fog' in non-dementia cohorts most frequently arise from reversible physiological disruptors: chronic sleep fragmentation, prolonged sympathetic hyperarousal, subclinical thyroid or metabolic imbalances, and systemic inflammatory cytokines. Formal cognitive screening distinguishes transient attentional lapses from neurodegenerative pathology. Clinical management focuses on restorative slow-wave sleep, stress attenuation, and objective neurocognitive evaluation."
+  },
+  {
+    "id": "AASM-2023-SLEEP",
+    "source": "American Academy of Sleep Medicine (AASM) Consensus Guidelines",
+    "category": "neuro",
+    "title": "Sleep Architecture, Glymphatic Clearance, and Neurorecovery",
+    "keywords": ["sleep", "insomnia", "sleepiness", "sleep debt", "night terrors", "fragmented sleep"],
+    "target_biomarkers": ["sleep", "sleep_hours"],
+    "content": "Adults require 7-9 hours of consistent sleep per 24-hour cycle. During non-rapid eye movement (NREM) slow-wave sleep, the brain's glymphatic system expands interstitial space by up to 60%, flushing neurotoxic metabolites including amyloid-beta and tau. Chronic sleep restriction (< 6 hours nightly) impairs prefrontal executive function, elevates daytime autonomic sympathetic tone, induces insulin resistance, and heightens subjective pain perception."
+  },
+  {
+    "id": "AAN-2020-SENSORY",
+    "source": "AAN Guidelines on Peripheral Neuropathy and Sensory Disturbances",
+    "category": "neuro",
+    "title": "Sensory Paresthesias, Numbness, and Peripheral Nerve Integrity",
+    "keywords": ["numbness", "tingling", "paresthesia", "sensory", "coordination"],
+    "target_biomarkers": ["sensory", "motor"],
+    "content": "Sensory complaints such as distal paresthesias (tingling, numbness) require distinguishing focal compressive entrapments (e.g. carpal tunnel) from systemic symmetric polyneuropathies (e.g. diabetic, nutritional B12 deficiency). Red-flag features include sudden unilateral sensory deficits or rapid progression, which require urgent neurological assessment to exclude central ischemic vascular events."
+  }
+]

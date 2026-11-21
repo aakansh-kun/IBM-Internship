@@ -1,0 +1,38 @@
+# ==============================================================================
+# Docker Ignore for Medicraft Backend
+# Excludes unnecessary runtime artifacts, environments, caches, and local secrets
+# ==============================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+env/
+ENV/
+
+# Git & IDEs
+.git/
+.gitignore
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary test and log files
+*.log
+test_key.py
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS-generated files
+.DS_Store
+Thumbs.db

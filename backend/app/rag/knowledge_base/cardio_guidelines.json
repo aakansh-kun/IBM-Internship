@@ -1,0 +1,47 @@
+[
+  {
+    "id": "AHA-ACC-2019-BP",
+    "source": "2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease",
+    "category": "cardio",
+    "title": "Blood Pressure Classification and Cardiovascular Risk Attribution",
+    "keywords": ["blood pressure", "systolic", "diastolic", "hypertension", "trestbps", "bp", "vascular resistance"],
+    "target_biomarkers": ["resting_bp", "trestbps", "diastolic_bp"],
+    "content": "Blood pressure is categorized into Normal (<120/<80 mmHg), Elevated (120-129/<80 mmHg), Stage 1 Hypertension (130-139 or 80-89 mmHg), and Stage 2 Hypertension (>=140 or >=90 mmHg). Chronic systolic elevation causes arterial wall shear stress, endothelial dysfunction, and accelerated atherogenesis. First-line management for elevated and Stage 1 hypertension emphasizes nonpharmacological interventions: dietary sodium reduction, potassium supplementation via food, 150 minutes of weekly aerobic exercise, and weight optimization."
+  },
+  {
+    "id": "AHA-ACC-2018-CHOL",
+    "source": "2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol",
+    "category": "cardio",
+    "title": "Atherogenic Lipids, Total Cholesterol, and Plaque Progression",
+    "keywords": ["cholesterol", "chol", "ldl", "hdl", "lipids", "apob", "atherosclerosis"],
+    "target_biomarkers": ["cholesterol", "chol", "ldl", "triglycerides"],
+    "content": "Elevated circulating serum cholesterol and low-density lipoprotein particles (LDL-P) represent primary causal drivers of atherosclerotic coronary artery disease. Normal total cholesterol is generally < 200 mg/dL, borderline 200-239 mg/dL, and elevated >= 240 mg/dL. In patients with borderline or elevated risk, reducing dietary saturated and trans fatty acids, substituting polyunsaturated and monounsaturated fatty acids, and increasing soluble dietary fiber are proven foundational interventions to reduce circulating atherogenic particles."
+  },
+  {
+    "id": "ACC-AHA-2020-HR",
+    "source": "American College of Cardiology Clinical Review: Resting Heart Rate and Cardiovascular Risk",
+    "category": "cardio",
+    "title": "Resting Heart Rate, Autonomic Balance, and Myocardial Oxygen Demand",
+    "keywords": ["heart rate", "pulse", "bpm", "thalach", "tachycardia", "resting hr"],
+    "target_biomarkers": ["resting_hr", "thalach"],
+    "content": "Resting heart rate reflects autonomic nervous system balance between sympathetic drive and parasympathetic vagal tone. A normal resting range is 60-100 BPM. Elevated resting heart rate (> 80-85 BPM in sedentary individuals) is independently correlated with heightened cardiovascular morbidity due to increased myocardial oxygen consumption, shorter diastolic coronary perfusion intervals, and mechanical pulsatile stress on large arterial beds. Regular aerobic physical training predictably enhances vagal tone and lowers resting pulse."
+  },
+  {
+    "id": "ADA-2024-GLUCOSE",
+    "source": "ADA Standards of Care in Diabetes: Cardiovascular Disease and Risk Management",
+    "category": "cardio",
+    "title": "Fasting Blood Glucose and Microvascular/Macrovascular Disease",
+    "keywords": ["glucose", "fbs", "sugar", "fasting blood sugar", "diabetes", "metabolic"],
+    "target_biomarkers": ["glucose", "fbs"],
+    "content": "Fasting blood glucose thresholds are classified as Normal (< 100 mg/dL), Impaired Fasting Glucose/Prediabetes (100-125 mg/dL), and Provisional Diabetes (>= 126 mg/dL). Hyperglycemia promotes oxidative stress, advanced glycation end-products (AGEs), and vascular inflammation. Impaired fasting glucose substantially amplifies 10-year atherosclerotic cardiovascular event rates, especially when clustered with dyslipidemia and elevated systolic blood pressure (metabolic syndrome)."
+  },
+  {
+    "id": "AHA-2021-ISCHEMIA",
+    "source": "AHA/ACC Guideline for the Evaluation and Diagnosis of Chest Pain",
+    "category": "cardio",
+    "title": "Exercise-Induced ST Depression (Oldpeak) and Myocardial Ischemia",
+    "keywords": ["st depression", "oldpeak", "ecg", "ischemia", "chest pain", "angina"],
+    "target_biomarkers": ["oldpeak", "cp", "st_depression"],
+    "content": "Electrocardiographic ST-segment depression induced by exercise or exertion (measured as oldpeak in mm) signifies subendocardial myocardial ischemia when supply fails to match myocardial oxygen demand. A value exceeding 1.0 mm is clinically significant and warrants cardiology consultation, non-invasive imaging (e.g. stress echocardiography, SPECT, or coronary CT angiography), and formal diagnostic stratification."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "AHA-DASH-DIET",
+    "source": "AHA Scientific Statement: Dietary Patterns and Cardiovascular Health",
+    "category": "lifestyle",
+    "title": "DASH Nutritional Patterns, Sodium Restriction, and Vascular Resistance",
+    "keywords": ["diet", "sodium", "salt", "dash", "nutrition", "fast food", "saturated fat", "burger"],
+    "target_biomarkers": ["cholesterol", "resting_bp"],
+    "content": "The Dietary Approaches to Stop Hypertension (DASH) eating plan reduces systolic blood pressure by an average of 8-14 mmHg in hypertensive individuals. Limiting dietary sodium intake to < 2,300 mg daily (optimally < 1,500 mg daily for elevated BP) directly mitigates extracellular fluid expansion and endothelial vasoconstriction. Replacing high saturated fat foods (e.g. processed meats, fried foods) with whole grains, legumes, lean proteins, and unsaturated fatty acids concurrently improves the atherogenic lipid subfraction profile."
+  },
+  {
+    "id": "ACSM-AHA-EXERCISE",
+    "source": "ACSM/AHA Physical Activity Recommendations for Cardiovascular Health",
+    "category": "lifestyle",
+    "title": "Aerobic Conditioning, Endothelial Nitric Oxide, and Myocardial Reserve",
+    "keywords": ["exercise", "aerobic", "physical activity", "sedentary", "fitness", "cardio"],
+    "target_biomarkers": ["resting_hr", "thalach", "resting_bp"],
+    "content": "Engaging in at least 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity aerobic physical activity weekly improves vascular endothelial nitric oxide synthesis, reduces resting sympathetic outflow, and increases systemic capillary density. Regular exercise increases high-density lipoprotein (HDL), lowers circulating triglycerides, attenuates resting systolic blood pressure, and lowers baseline resting heart rate."
+  },
+  {
+    "id": "WHO-STRESS-SLEEP",
+    "source": "World Health Organization Guidelines on Stress Reduction and Mental Well-Being",
+    "category": "lifestyle",
+    "title": "Chronic Psychological Stress, Cortisol, and Cardiovascular Load",
+    "keywords": ["stress", "anxiety", "cortisol", "sympathetic", "burnout", "mental"],
+    "target_biomarkers": ["resting_hr", "resting_bp", "sleep"],
+    "content": "Chronic psychological distress triggers sustained hypothalamic-pituitary-adrenal (HPA) axis activation and elevated serum cortisol, inducing vasoconstriction, endothelial inflammation, and platelet hyperreactivity. Structured mindfulness, diaphragmatic breathing techniques, and cognitive behavioral strategies reliably lower resting heart rate variability (HRV) stress markers and assist in blood pressure normalization."
+  }
+]
