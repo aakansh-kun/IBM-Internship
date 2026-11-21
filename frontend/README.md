@@ -1,16 +1,29 @@
-# React + Vite
+# Medicraft: Minecraft Health AI (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+[![Live Website](https://img.shields.io/badge/Live%20Website-medicraft--health.vercel.app-00dfa2?style=for-the-badge&logo=vercel&logoColor=white)](https://medicraft-health.vercel.app)
 
-Currently, two official plugins are available:
+> 🎮 **Live Web Application:** [https://medicraft-health.vercel.app](https://medicraft-health.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+An interactive, first-person Minecraft 3D environment built with React 19, Three.js, and React Three Fiber for immersive clinical risk screening, lab analysis, and AI health companionship.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Minecraft 3D World:** Procedural voxel landscape, mountain biome, shader sky, and first-person player camera.
+- **Three Input Screening Modes:**
+  1. *Clinical Report Upload:* Drag-and-drop PDF, lab report images, or CSV.
+  2. *Manual Biometrics:* Structured entry for blood pressure, cholesterol, resting heart rate, and lifestyle metrics.
+  3. *Health AI Companion:* Interactive natural language health dialogue grounded in clinical guidelines.
+- **Interactive Medical HUD:** Heart health bar, stamina indicators, hotbar diagnostic items, and clinical lab analyzer modal.
+- **Explainable Clinical Insights:** Instant GenAI health summaries with RAG citations from AHA/ACC and WHO guidelines.
 
-## Expanding the Oxlint configuration
+## Local Development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```bash
+# Install dependencies
+npm install
+
+# Start Vite dev server
+npm run dev
+```
+
+Runs locally at `http://localhost:5173`.

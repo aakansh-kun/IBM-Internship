@@ -1,6 +1,11 @@
 # Medicraft: Minecraft First-Person Health AI & Clinical Decision-Support
 
-An educational, interactive first-person Minecraft environment coupled with an evidence-grounded clinical risk screening and explainability platform.
+[![Live Website](https://img.shields.io/badge/Live%20Website-medicraft--health.vercel.app-00dfa2?style=for-the-badge&logo=vercel&logoColor=white)](https://medicraft-health.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-IBM--Internship-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakansh-kun/IBM-Internship)
+[![Docker](https://img.shields.io/badge/Docker-Backend%20Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)](docker-compose.yml)
+
+> 🎮 **Live Website:** [https://medicraft-health.vercel.app](https://medicraft-health.vercel.app)  
+> An educational, interactive first-person Minecraft environment coupled with an evidence-grounded clinical risk screening, GenAI explanation, and RAG medical decision-support platform.
 
 ---
 
